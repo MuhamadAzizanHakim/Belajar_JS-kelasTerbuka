@@ -76,3 +76,7 @@ console.log(DataString3);
 let dataFloat = parseFloat(DataString3);
 console.log(typeof dataFloat);
 console.log(dataFloat);
+
+let dataString4 = "10.121232";
+console.log(typeof dataString4);
+console.log(dataString4);
