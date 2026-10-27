@@ -1,10 +1,10 @@
 // tipe data boolean
 
-let data_bool = true; // false = 0, true =1, binary
+let data_bool = true; //! false = 0, true =1, binary
 console.log(data_bool);
 console.log("1______________");
 
-let dataBool = false; // false = 0, true =1, binary
+let dataBool = false; //! false = 0, true =1, binary
 console.log(dataBool);
 console.log("2______________");
 
